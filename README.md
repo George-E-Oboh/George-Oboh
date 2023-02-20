@@ -1,6 +1,7 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://https://wallpapercave.com/wp/wp7848258.jpg"cover" alt="cover" />
+<img width="100%" height = "250px" src="https://wallpapercave.com/wp/wp7848258.jpg" alt="cover" />
 </div>
+
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
